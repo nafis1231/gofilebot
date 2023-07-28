@@ -21,13 +21,13 @@ By @StarkBots
 
     # Rest Buttons
     buttons = [
-        [InlineKeyboardButton("✨ Bot Status and More Bots ✨", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("✨ Bot Status ✨", url="https://t.me/Nafisfuad1")],
         [
             InlineKeyboardButton("How to Use ❔", callback_data="help"),
             InlineKeyboardButton("🎪 About 🎪", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("♥ More Amazing bots ♥", url="https://t.me/Nafisfuad1")],
+        [InlineKeyboardButton("🎨 Support Group 🎨", url="https://t.me/gdrive_mirror")],
     ]
 
     # Help Message
@@ -45,13 +45,9 @@ Just send me the media and you will get the link!
     ABOUT = """
 **About This Bot** 
 
-A telegram bot to upload files to gofile.io by @StarkBots
+A telegram bot to upload files to gofile.io by @Nafisfuad1
 
-Source Code : [Click Here](https://github.com/StarkBotsIndustries/GoFileBot)
+Owner : [ B14CK-KN1GH7 ](https://t.me/Nafisfuad1)
 
-Framework : [Pyrogram](docs.pyrogram.org)
-
-Language : [Python](www.python.org)
-
-Developer : @StarkProgrammer
+ENJOY...
     """
