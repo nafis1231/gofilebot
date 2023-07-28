@@ -11,7 +11,7 @@ Welcome to {}
 I can upload any media to gofile.io and return the link.
 Just send me the media and you will get the link!
 
-By @StarkBots
+By @nAFISFUAD1
     """
 
     # Home Button
