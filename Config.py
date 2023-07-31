@@ -22,6 +22,6 @@ else:
     BOT_TOKEN = "5072824559:AAHBYqGkRMcxVb9H-A9rYB62vU3AmKtipQA"
     DATABASE_URL = "postgres://klsxdgvz:mZBFLWoFzDfNgTrEg76LgGubZWaK6wzV@batyr.db.elephantsql.com/klsxdgvz"
     DATABASE_URL = DATABASE_URL.replace("postgres", "postgresql")
-    MUST_JOIN = "StarkBots"
-    if MUST_JOIN.startswith("@"):
+    MUST_JOIN = ""
+    if MUST_JOIN.startswith("@gdrive_mirror"):
         MUST_JOIN = MUST_JOIN[1:]
